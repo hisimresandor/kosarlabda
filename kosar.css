@@ -39,3 +39,7 @@ a {
 h1 {
 	border-bottom: 1px lightgray solid;
 }
+
+.bold {
+	font-weight: bold;
+}
